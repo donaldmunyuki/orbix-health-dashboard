@@ -11,7 +11,7 @@
 
 !["Orbix Studio Health Dashboard](preview.png) 
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Quick Start](#quick-start)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Orbix Health Record Dashboard** is a pixel-perfect health monitoring application designed to display comprehensive vital signs and wellness metrics in real-time. The platform provides healthcare professionals and individuals with an intuitive interface to track multiple health parameters simultaneously, including oxygen saturation, heart rate, temperature, breath analysis, and calorie expenditure.
 
@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -160,7 +160,7 @@ tailwind-merge (Smart class merging)
 
 ---
 
-## 🎨 Architecture
+## Architecture
 
 ### Folder Structure
 
@@ -212,7 +212,7 @@ Index Page Component
 
 ---
 
-## ✨ Features
+## Features
 
 ### 1. **Real-time Health Metrics**
    - Oxygen Saturation (SpO2): 96.5 - 98.5%
@@ -247,7 +247,7 @@ Index Page Component
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 ### Build & Runtime Performance
 
@@ -279,7 +279,7 @@ Index Page Component
 
 ---
 
-## 📚 Case Study
+## Case Study
 
 ### Project Context
 
@@ -413,7 +413,7 @@ Phase 8: Telemedicine Integration
 
 ---
 
-## 💻 Development
+## Development
 
 ### Available Scripts
 
@@ -450,7 +450,7 @@ bun run lint
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Test Framework: Vitest
 
@@ -488,7 +488,7 @@ describe('Header Component', () => {
 
 ---
 
-## 📦 Dependencies Overview
+## Dependencies Overview
 
 ### Core Dependencies (28)
 
@@ -510,7 +510,7 @@ describe('Header Component', () => {
 
 ---
 
-## 🎯 Design Principles
+## Design Principles
 
 ### 1. **Clarity**
 Clear hierarchy of information with metrics organized by importance
@@ -541,11 +541,11 @@ Clear hierarchy of information with metrics organized by importance
 
 ---
 
-## 📄 License
+## License
 
 MIT License - See LICENSE file for details
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please ensure:
 - TypeScript strict mode compliance
@@ -553,7 +553,7 @@ Contributions welcome! Please ensure:
 - Tests for new features
 - Accessibility standards met
 
-## 📞 Support & Contact
+## Support & Contact
 
 For questions or issues, please contact Orbix Studio development team.
 
